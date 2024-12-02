@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.5bef5a9b-aeba-11ef-9f64-010101010000.jpg</filename>
+	<path>D:\Users\Documents\01. Kuliah\01. KBM\07. Semester 7\Visikom\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.5bef5a9b-aeba-11ef-9f64-010101010000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>141</ymin>
+			<xmax>275</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
